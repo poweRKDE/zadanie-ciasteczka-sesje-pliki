@@ -1,0 +1,128 @@
+html, body
+{
+    background: #2b3038;
+    font-family: Arial;
+    width: auto;
+    margin: auto;
+    padding: auto;
+    color: #fff;
+    height: 100%;
+    
+}
+
+header
+{
+    height: 50px;
+    width: 100%;
+    background: #121418;
+    text-align: center;
+}
+
+.header_logo
+{
+    float: left;
+    margin-left: 30px;
+}
+
+.header_menu
+{
+    
+    letter-spacing: 5px;
+    padding-top: 10px;
+    margin-right: 5px;
+    color: #00d8ff;
+}
+
+#logo
+{
+    height: 50px;
+}
+.header1
+{
+    background:  linear-gradient(to right, #0b7cff, #0b6ad8, #0b7cff);
+}
+
+
+main
+{   
+    letter-spacing: 5px;
+    text-align: center;
+    width: 65%;
+    float: left;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#panel_glowny
+{
+    background: #0577c3;
+    color: #00d8ff;
+    height: 30px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 25px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-weight: bold;
+}
+
+#panel_glowny_tresc
+{
+    height: auto;
+    background: rgba(5, 119, 195, 0.5);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+aside
+{
+    width: 30%;
+    float: right;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+#panel_boczny
+{
+    background: #0577c3;
+    color: #00d8ff;
+    height: 30px;
+    font-family: sans-serif;
+    padding-top: 10px;
+    padding-left: 25px;
+    margin-right: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-weight: bold;
+}
+
+dside
+{
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+footer
+{
+    position: fixed;
+    bottom: 0;
+    height:50px;
+    width: 100%;
+    background:#000;
+    color:#FFF;
+    text-align:center;
+}
+
+a
+{
+    text-decoration: none;
+    color: #00d8ff;
+    margin-left: 50px;
+}
